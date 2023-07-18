@@ -8,11 +8,10 @@
   <img src="img/D1_IMAGE.png" width="200"/>
 </h1>
 
-#### (WINDOW) CygLiDAR D1 VIEWER
-https://www.cygbot.com/downloads
+### OPENSOURCE CODE
 
-#### ROS1 / ROS2 SDK Package
-https://github.com/CygLiDAR-ROS/cyglidar_d1
+#### [(WINDOW) CygLiDAR D1 VIEWER](https://www.cygbot.com/downloads)
 
-#### Python Examle Code
-https://github.com/CygLiDAR-ROS/cyglidarPython
+#### [ROS1 / ROS2 SDK Package](https://github.com/CygLiDAR-ROS/cyglidar_d1)
+
+#### [Python Examle](https://github.com/CygLiDAR-ROS/cyglidarPython)

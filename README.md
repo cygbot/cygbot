@@ -1,4 +1,4 @@
-# <center>WELCOME TO CYGBOT!</center>
+<center># WELCOME TO CYGBOT!</center>
 
 ## LiDAR 
 >### CygLiDAR - D1

@@ -3,7 +3,7 @@
 ## LiDAR 
 >### CygLiDAR - D1
 <h1 align="left">
-  <img src="img/D1_IMAGE.png" width="400"/>
+  <img src="img/D1_IMAGE.png" width="200"/>
 </h1>
 
 #### (WINDOW) CygLiDAR D1 VIEWER

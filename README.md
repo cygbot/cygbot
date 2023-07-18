@@ -1,16 +1,16 @@
-### Hi there 👋
+# Cygbot
 
-<!--
-**cygbot/cygbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## LiDAR 
+>### CygLiDAR - D1
+<h1 align="left">
+  <img src="img/D1_IMAGE.png" width="400"/>
+</h1>
 
-Here are some ideas to get you started:
+#### (WINDOW) CygLiDAR D1 VIEWER
+https://www.cygbot.com/downloads
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ROS1 / ROS2 SDK Package
+https://github.com/CygLiDAR-ROS/cyglidar_d1
+
+#### Python Examle Code
+https://github.com/CygLiDAR-ROS/cyglidarPython

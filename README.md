@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="img/profile.png" width="1000"/>
+  <img src="img/logo.png" width="800"/>
 </h1>
 
 ## LiDAR 

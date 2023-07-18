@@ -5,7 +5,7 @@
 ## LiDAR 
 >### [CygLiDAR - D1](https://github.com/CygLiDAR-ROS)
 <h1 align="left">
-  <img src="img/D1_IMAGE.png" width="200"/>
+  <img src="img/D1_IMAGE.png" width="100"/>
 </h1>
 
 #### OPENSOURCE CODE

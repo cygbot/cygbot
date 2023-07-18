@@ -1,4 +1,6 @@
-# WELCOME TO CYGBOT!
+<h1 align="left">
+  <img src="img/profile.png" width="1000"/>
+</h1>
 
 ## LiDAR 
 >### CygLiDAR - D1

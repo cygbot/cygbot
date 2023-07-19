@@ -3,7 +3,7 @@
 </h1>
 
 ## LiDAR 
->### [CygLiDAR - D1]([https://github.com/CygLiDAR-ROS](https://www.cygbot.com/2d-3d-dual-solid-state-tof-lidar))
+>### [CygLiDAR - D1](https://www.cygbot.com/2d-3d-dual-solid-state-tof-lidar)
 ><h1 align="left">
 >  <img src="img/D1_IMAGE.png" width="100"/>
 ></h1>

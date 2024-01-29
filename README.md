@@ -3,6 +3,16 @@
 </div>
 
 ## LiDAR 
+### [CygLiDAR - D2](https://www.cygbot.com/2d-3d-dual-solid-state-tof-lidar)
+<div align="left">
+  <img src="https://github.com/cygbot/cygbot/blob/main/img/D2_IMAGE.png" width="100"/>
+</div>
+
+#### OPENSOURCE CODE
+---
+* ROS1 / ROS2 SDK Package
+---
+
 ### [CygLiDAR - D1](https://www.cygbot.com/2d-3d-dual-solid-state-tof-lidar)
 <div align="left">
   <img src="https://github.com/cygbot/cygbot/blob/main/img/D1_IMAGE.png" width="100"/>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/cygbot/cygbot/blob/main/img/newAnimation.gif" width="800"/>
+  <img src="https://github.com/cygbot/cygbot/blob/main/img/D_Animation.gif" width="800"/>
 </div>
 
 ## LiDAR 
